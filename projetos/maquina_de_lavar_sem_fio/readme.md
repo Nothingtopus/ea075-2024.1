@@ -72,6 +72,8 @@ https://github.com/Nothingtopus/ea075-2024.1/tree/367b0e5e4ba0af8f4c456e904d2b23
 |Componentes|Quantidade|Valor|
 |--|--|--|
 |Reistor 1k Ohm, 1/4W|2|0,5|
+https://github.com/Nothingtopus/ea075-2024.1/blob/main/projetos/maquina_de_lavar_sem_fio/especificacaoestrutural.md
+
 > 
 > Nesta etapa do projeto espera-se que sejam identificada também a eventual necessidade do projeto de circuitos de interface para os periféricos do projeto.
 > Assim, devem ser incluídos na especificação, se necessário:
