@@ -12,7 +12,7 @@ oferecida no orimeiro semestre de 2024, na Unicamp, sob supervisão da Profa. Dr
 > | Nome1  | 123456  | Eng. Elétrica|
 > | Nome2  | 123456  | Eng. Elétrica|
 
-https://github.com/Nothingtopus/ea075-2024.1/tree/367b0e5e4ba0af8f4c456e904d2b238673e38cad/projetos/maquina_de_lavar_sem_fio
+
 ## Descrição do Projeto (ATUALIZAR SE NECESSÁRIO)
 > Descrição do objetivo principal do projeto, incluindo contexto gerador, motivação.
 > Escreva essa seção imaginando que está tentando convencer alguém a investir financeiramente no seu projeto.
@@ -68,7 +68,6 @@ https://github.com/Nothingtopus/ea075-2024.1/tree/367b0e5e4ba0af8f4c456e904d2b23
 > Tendo definidos os periféricos e a memória, é possível projetar um decodificador de endereços
 > que converte o endereço referenciado no programa em sinal *Chip Select – CS* do dispositivo
 > correspondente, habilitando-o para realizar um ciclo de leitura ou de escrita.
->
 > 
 > Nesta etapa do projeto espera-se que sejam identificada também a eventual necessidade do projeto de circuitos de interface para os periféricos do projeto.
 > Assim, devem ser incluídos na especificação, se necessário:
