@@ -55,6 +55,7 @@ oferecida no orimeiro semestre de 2024, na Unicamp, sob supervisão da Profa. Dr
 ### Especificação Estrutural
 
 > (Se preferir, adicione um link para o documento de especificação estrutural)
+> https://github.com/Nothingtopus/ea075-2024.1/blob/main/projetos/maquina_de_lavar_sem_fio/especificacoesestruturais.md
 > 
 > Entende-se por estrutural a descrição tanto das características elétricas e temporais como das restrições físicas de cada bloco funcional.
 > Nessa etapa do projeto, ainda não será solicitado o diagrama elétrico mas espera-se que já estejam identificados os componentes e circuitos integrados propostos
