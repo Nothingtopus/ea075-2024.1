@@ -75,7 +75,7 @@ oferecida no orimeiro semestre de 2024, na Unicamp, sob supervisão da Profa. Dr
 > - padrões de comunicação a serem adotados;
 > - circuitos de sincronização de sinais temporais.
 >
-> - |Componentes|Quantidade|Valor [R$]|
+> - |Componentes|Quantidade|Valor R$|
 > - |-|-|-|
 > - |Resistor 1 kOhm, 1/4 W| 2| 0,5|
 > - |Diodo 1N4001| 4| 2| 
