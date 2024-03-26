@@ -59,6 +59,10 @@ oferecida no orimeiro semestre de 2024, na Unicamp, sob supervisão da Profa. Dr
 > Entende-se por estrutural a descrição tanto das características elétricas e temporais como das restrições físicas de cada bloco funcional.
 > Nessa etapa do projeto, ainda não será solicitado o diagrama elétrico mas espera-se que já estejam identificados os componentes e circuitos integrados propostos
 > para implementação do sistema embarcado proposto.
+> |Componentes|Quantidade|Valor|
+> |-|-|-|
+> |Resistor 1kOhm, 1/4W| 2| 0,5|
+> |Diodo 1N4001| 4| 2|
 > 
 > Como o projeto de um sistema embarcado é centralizado nas tarefas, recomenda-se iniciar com a definição dos periféricos de entrada e saída (atuadores e/ou sensores) apropriados para o
 > sistema. Pode ser necessário definir um endereço distinto para cada um deles. 
