@@ -6,11 +6,10 @@
 O presente projeto foi originado no contexto das atividades da disciplina de graduação *EA075 - Introdução ao Projeto de Sistemas Embarcados*, 
 oferecida no primeiro semestre de 2024, na Unicamp, sob supervisão da Profa. Dra. Paula Dornhofer Paro Costa, do Departamento de Engenharia de Computação e Automação (DCA) da Faculdade de Engenharia Elétrica e de Computação (FEEC).
 
-> Incluir nome RA e foco de especialização de cada membro do grupo. Os projetos devem ser desenvolvidos em duplas.
-> |Nome  | RA | Curso|
-> |--|--|--|
-> | Eduardo Pereira Tejada  | 183451  | Eng. Elétrica|
-> | Gabriel Dias Vasconcelos  | 248134  | Eng. Elétrica|
+|Nome  | RA | Curso|
+|--|--|--|
+| Eduardo Pereira Tejada  | 183451  | Eng. Elétrica|
+| Gabriel Dias Vasconcelos  | 248134  | Eng. Elétrica|
 
 
 ## Descrição do Projeto
@@ -22,10 +21,7 @@ O projeto visa solucionar o problema de encontrar espaços de estacionamento dis
 > com links para diagramas ou outros arquivos que estejam no próprio repositório.
 
 ### Funcionalidades
-O sistema deve ser capaz de identificar quais vagas estão ocupadas, reportar esses resultados para os usuários do estacionamento e salvar em uma base de dados com uma certa periodicidade.
-
-### Configurabilidade
-O sistema deve ser capaz de identificar quais vagas estão ocupadas, reportar esses resultados para os usuários do estacionamento e salvar em uma base de dados com uma certa periodicidade.
+O sistema deve ser capaz de identificar quais vagas estão ocupadas através de um sensor de presença, computar quantos espaços ainda se encontram disponíveis e reportar esses resultados para os usuários do estacionamento através de um LED.
 
 ### Eventos
 Evento 1: novo carro solicitar um lugar pra estacionar;\
@@ -34,9 +30,9 @@ Evento 3: estacionamento lotado;\
 Evento 4: estacionamento deixa de estar lotado.
 
 ### Tratamento de Eventos
-Evento 1: buscar quais locais estão liberadas, computar qual é a mais próxima do carro solicitante, reportar o resultado e marcar a vaga como ocupada;\
+Evento 1: verificar se existem vagas disponíveis, reportar o resultado e marcar a vaga como ocupada;\
 Evento 2: registrar vaga como liberada no sistema;\
-Evento 3: na entrada, reportar que o estacionamento está lotado direcionando para um estacionamento na rua ou indicando um tempo estimado para próxima vaga;\
+Evento 3: na entrada, reportar que o estacionamento está lotado direcionando para um estacionamento na rua;\
 Evento 4: reportar a liberação de vagas na entrada.
 
 ## Descrição Estrutural do Sistema
