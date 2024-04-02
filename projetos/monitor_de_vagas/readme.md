@@ -25,18 +25,18 @@ O projeto visa solucionar o problema de encontrar espaços de estacionamento dis
 O sistema deve ser capaz de identificar quais vagas estão ocupadas, reportar esses resultados para os usuários do estacionamento e salvar em uma base de dados com uma certa periodicidade.
 
 ### Configurabilidade
-> Detalhe, se houver, todas as possíveis configurações do circuito e todos os pontos de alteração da configuração.
+O sistema deve ser capaz de identificar quais vagas estão ocupadas, reportar esses resultados para os usuários do estacionamento e salvar em uma base de dados com uma certa periodicidade.
 
 ### Eventos
-Evento 1: novo carro solicitar um lugar pra estacionar;
-Evento 2: carro desocupar uma vaga do estacionamento;
-Evento 3: estacionamento lotado;
+Evento 1: novo carro solicitar um lugar pra estacionar;\
+Evento 2: carro desocupar uma vaga do estacionamento;\
+Evento 3: estacionamento lotado;\
 Evento 4: estacionamento deixa de estar lotado.
 
 ### Tratamento de Eventos
-Evento 1: buscar quais locais estão liberadas, computar qual é a mais próxima do carro solicitante, reportar o resultado e marcar a vaga como ocupada;
-Evento 2: registrar vaga como liberada no sistema;
-Evento 3: na entrada, reportar que o estacionamento está lotado direcionando para um estacionamento na rua ou indicando um tempo estimado para próxima vaga;
+Evento 1: buscar quais locais estão liberadas, computar qual é a mais próxima do carro solicitante, reportar o resultado e marcar a vaga como ocupada;\
+Evento 2: registrar vaga como liberada no sistema;\
+Evento 3: na entrada, reportar que o estacionamento está lotado direcionando para um estacionamento na rua ou indicando um tempo estimado para próxima vaga;\
 Evento 4: reportar a liberação de vagas na entrada.
 
 ## Descrição Estrutural do Sistema
