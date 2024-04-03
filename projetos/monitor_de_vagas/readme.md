@@ -37,7 +37,7 @@ Evento 3: na entrada, reportar que o estacionamento está lotado direcionando pa
 Evento 4: reportar a liberação de vagas na entrada.
 
 ## Descrição Estrutural do Sistema
-![Diagrama de blocos do sistema](projetos/monitor_de_vagas/imagens/diagrama_monitor_estacionamento.png)
+![Diagrama de blocos do sistema](https://raw.githubusercontent.com/Gabriel-Diasss/ea075-2024.1/main/projetos/monitor_de_vagas/diagrama_monitor_estacionamento.drawio.svg)
 > Junto com a descrição do comportamento do sistema, deve-se especificar, em nível de bloco ou sistema, a estrutura necessária 
 > para captar os eventos do mundo externo, para alojar e processar o programa de tratamento de eventos, e para atuar sobre o mundo externo.
 >
