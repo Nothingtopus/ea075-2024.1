@@ -20,7 +20,7 @@ O projeto visa solucionar o problema de encontrar espaços de estacionamento dis
 ![Diagrama funcional do sistema](https://github.com/Gabriel-Diasss/ea075-2024.1/blob/main/projetos/monitor_de_vagas/imagens/diagrama_funcional.png?raw=true)
 
 ### Funcionalidades
-O sistema deve ser capaz de identificar quais vagas estão ocupadas através de um sensor de presença, computar quantos espaços ainda se encontram disponíveis e reportar esses resultados para os usuários do estacionamento através de um LED.
+O sistema deve ser capaz de identificar quais vagas estão ocupadas através de um sensor de presença, computar quantos espaços ainda se encontram disponíveis e reportar esses resultados para os usuários do estacionamento através de um painel LED.
 
 ### Eventos
 Evento 1: novo carro solicitar um lugar pra estacionar;\
