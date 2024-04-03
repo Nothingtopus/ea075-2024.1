@@ -38,6 +38,6 @@ Evento 4: reportar a liberação de vagas na entrada.
 ![Diagrama de blocos do sistema](https://raw.githubusercontent.com/Gabriel-Diasss/ea075-2024.1/main/projetos/monitor_de_vagas/diagrama_monitor_estacionamento.drawio.svg)
 
 ## Referências
-  Notas de aula de EA075;\
-  https://www.sofit4.com.br/blog/controle-de-entrada-e-saida-de-veiculos/;\
+  Notas de aula de EA075 \
+  https://www.sofit4.com.br/blog/controle-de-entrada-e-saida-de-veiculos/ \
   https://autopark.com.br/tecnologia-e-automatizacao-para-estacionamentos/
