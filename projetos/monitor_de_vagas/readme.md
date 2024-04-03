@@ -39,3 +39,5 @@ Evento 4: reportar a liberação de vagas na entrada.
 
 ## Referências
   Notas de aula de EA075
+  https://www.sofit4.com.br/blog/controle-de-entrada-e-saida-de-veiculos/
+  https://autopark.com.br/tecnologia-e-automatizacao-para-estacionamentos/
