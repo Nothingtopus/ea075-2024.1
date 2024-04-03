@@ -17,6 +17,7 @@ O projeto visa solucionar o problema de encontrar espaços de estacionamento dis
 
 
 ## Descrição Funcional
+![diagrama1](blob:https://web.whatsapp.com/ded9aefc-9533-4d30-b258-12732dc31b74)  
 > A descrição funcional do projeto é a principal entrega do E1 e pode ser realizada neste próprio arquivo Markdown,
 > com links para diagramas ou outros arquivos que estejam no próprio repositório.
 
